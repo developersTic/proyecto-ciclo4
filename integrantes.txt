@@ -1,3 +1,4 @@
-Desarrollador UI: Brayan Esleyder  Gonzalez Gonzalez
+Desarrollador UI: Brayan Gonzalez
 Desarrollador Tester: Faiver vargas
 Desarrollador Analista: Jaime Cortez
+Scrum master: Christian Felipe Fernandez
