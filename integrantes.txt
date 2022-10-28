@@ -2,3 +2,4 @@ Desarrollador UI: Brayan Gonzalez
 Desarrollador Tester: Faiver vargas
 Desarrollador Analista: Jaime Cortez
 Scrum master: Christian Felipe Fernandez
+desarrollador Nestor Bernal
